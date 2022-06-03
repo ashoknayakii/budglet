@@ -19,7 +19,7 @@ Enter the transactions in the appropriate fields
 
 ## Screenshot
 
-![Screenshot](./images/budgletscreenshot.png)
+![Screenshot](public/images/budgletscreenshot.png)
 
 ### URL of the deployed application (Heroku):
 https://intense-garden-49722.herokuapp.com/
